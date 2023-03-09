@@ -1,4 +1,4 @@
-### Hello there.👋
+### Hello there!🤠
 https://user-images.githubusercontent.com/47045018/223842586-4e27e3a5-07e3-4251-9453-53d06d7737fb.mp4
 
 ### Intermediário / Intermediate
