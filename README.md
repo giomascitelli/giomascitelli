@@ -10,9 +10,9 @@ https://user-images.githubusercontent.com/47045018/223842586-4e27e3a5-07e3-4251-
 ### Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" height="60"/>
 
-### Ouvindo
+<br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&redirect=true)
           
 
 
