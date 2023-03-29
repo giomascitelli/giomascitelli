@@ -12,9 +12,7 @@ https://user-images.githubusercontent.com/47045018/223842586-4e27e3a5-07e3-4251-
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&redirect=true)
-          
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=a320douglasrec204gio&redirect=true)<img src="https://media0.giphy.com/media/5gNFGdAofCz4czb1JC/giphy.gif" width ="301" height="316" />
 
 <!--
 **giomascitelli/giomascitelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
