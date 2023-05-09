@@ -1,6 +1,8 @@
 ### Hello there!🤠
 https://user-images.githubusercontent.com/47045018/223842586-4e27e3a5-07e3-4251-9453-53d06d7737fb.mp4
 
+<img src="https://www.codewars.com/users/giomascitelli/badges/large"/>
+
 ### Intermediário | Intermediate | Intermédiaire
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png"  width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
                    
