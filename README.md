@@ -18,7 +18,5 @@ https://user-images.githubusercontent.com/47045018/223842586-4e27e3a5-07e3-4251-
 ### Outros
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 
-<img src="https://media0.giphy.com/media/5gNFGdAofCz4czb1JC/giphy.gif" width ="301" height="316" />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tveucc2kiar4zciowwrbatdeyi&cover_image=true&theme=novatorem&show_offline=true&background_color=1c1c1c&interchange=false&bar_color=a600ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://i.giphy.com/qVfJX3Si7MLkOksNMB.webp" width ="301" height="316" />
 
